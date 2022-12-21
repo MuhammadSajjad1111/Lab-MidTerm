@@ -1,0 +1,40 @@
+.flex{
+  display: flex;
+}
+
+.container1 {
+  padding: 0px 10vw;
+
+
+
+}
+
+
+.item-center{
+  align-items: center;
+}
+
+.justify-center{
+  justify-content: center;
+}
+
+.space-between{
+  justify-content: space-between;
+}
+
+.margin-top{
+  margin-top: 24px;
+}
+
+.space-around{
+  justify-content: space-around;
+}
+
+.margin-bottom{
+  margin-bottom: 17px;
+
+}
+
+.cursr_pointer{
+  cursor: pointer;
+}
